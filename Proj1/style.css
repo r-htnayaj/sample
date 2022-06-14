@@ -1,0 +1,34 @@
+body{
+    font-family: cursive;
+}
+
+h1{
+    color: #FFFFFF;
+    font-family: cursive;
+    line-height: 200%;
+    background-color: #b3b3b3;
+}
+header{
+    text-align: center;
+}
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: cursive, Times,'Courier New';
+}
+p{
+    color: black;
+    font-family: cursive;
+    line-height: 200%;
+}
+h2{
+    background-color: #00b7c0;
+    text-align: center;
+}
+details{
+    font-style: italic;
+}
+summary{
+    font-style: normal;
+}
+
